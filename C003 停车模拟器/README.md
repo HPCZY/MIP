@@ -2,7 +2,8 @@
 
 因为第一次停车就撞了，所以开发这个程序用于练习。
 
-![image](https://github.com/HPCZY/MIP/assets/44971498/8529ccca-23f3-4c8c-a046-ef3dcf9652ab)
+![1695646585655](https://github.com/HPCZY/MIP/assets/44971498/934f89d6-e500-48c4-8202-1a71b78b6155)
+
 
 
 
@@ -13,7 +14,8 @@
 1. 切换MATLAB工作路径至停车模拟器文件夹；
 2. 命令行窗口输入`ParkingSimulator`后，按`Enter`键即可运行。
 
-![image](https://github.com/HPCZY/MIP/assets/44971498/049b65fa-3750-4ac2-84c4-36934e969985)
+![image](https://github.com/HPCZY/MIP/assets/44971498/af72bc09-3b63-4f2d-a89a-3c5334fb2dca)
+
 
 
 ## 控制：
